@@ -93,3 +93,6 @@ Individual project - creating and testing site Venti.co :
 ## Experience
  - uTest.com 2021 - Current
  - UpWork.com 2023 - Current
+
+# CV
+- 
