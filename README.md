@@ -1,5 +1,4 @@
-# Portfolio
-Kwame Lockley
+# Portfolio - Kwame Lockley
 
 ## About me
 Hi, I'm Kwame! 
