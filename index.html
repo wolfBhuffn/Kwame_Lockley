@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>W3.CSS Template</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Montserrat", sans-serif
+    }
+
+    .w3-row-padding img {
+      margin-bottom: 12px
+    }
+
+    /* Set the width of the sidebar to 120px */
+    .w3-sidebar {
+      width: 120px;
+      background: #222;
+    }
+
+    /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+    #main {
+      margin-left: 120px
+    }
+
+    /* Remove margins from "page content" on small screens */
+    @media only screen and (max-width: 600px) {
+      #main {
+        margin-left: 0
+      }
+    }
+  </style>
+</head>
+
+<body class="w3-black">
+
+  <!-- Icon Bar (Sidebar - hidden on small screens) -->
+  <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
+    <!-- Avatar image in top left corner -->
+    <img src="https://lh3.googleusercontent.com/cMyoBNkLZOWq5Qua8tnxqttjdg761qSp2wFXGLQ6lB-gNe1sFynrzrTRQPP_TZYJJ9MyZkD3RwGa_4fiYpV_PNvgsD9GmgyF_FH3BgL5w-MljRes0L_fC02T7ndCMN0OpvCFrJ6vkkUfIUUverYWBdw1MhAOCmXaybADwSIQgoHzSZIFGyDwWkoWh8teVUS_Vn0-lnE73CZth0nFenNL0AjUNPpmTJFs-PtlFeI2Yfvdty5ik8QEu0IhBFrbukFgZCg1iuQprzi7xLDvGCfS2uJfoAo2ULMd-Kqy_qVcoO_BOVjyRbd8X5NS76zDCHuJbdmfAjYoFJh8MBWyr_DEKt6VzESEhrndiqPazq_NH-ruRU-TJgd3etCQm_deKY2T6r0sJwAbhmXvI5dS2NbdsJKKqyvSki8JuiofzDsFdJGLQUPiJDPYw4sfPNhLLQBxrLlUplhaH5ybMK5HLMQyU2w6Ru2q0or_e81TuZyR7SgfM4FJRIRgOdmqe7Fo2Rtok83Ag4gtsRkr1mLQ0m2Fh6iAhBHXrewAVKsthJjZH9FNZ-2Z7ysro_Ej1Zdv6946aQtOWDMTDJh82gZHhR0EuFTos2XXDlByAX4GLNrW1zNyF1NGV404C5_yEH5kNKJ59i9NmtXRmFrcANOdTUHdz2VAH4B1f-vBqGJYhQ2wgtsjuzp3J2qljnlr7ol2-diVoY5mVFGH3bjwS3fKDURu1RsA3DBzUOcrwIkhcHhEWW1w3qJOnbwk34sgp_f9HnYuNKVHpdI7aLloYLF9d1U7m8CEsnRAq87GjJjPhvMezpxOGv5aN7PCo5r8U0_fZnmVbHD4OKU-bXm5It6orarQYF96i78NDR6N6X_oENqRroH5XwYOT-zw6ZpR5MNk69Iuxo30g6vKg5EED4Oe8a2bXGbDlZU_p0g9lrpb4XBtrFMcAzpJDmPoY-rKQDP62YaUlsNyQYfAmYlxaINsHOrpde2bg5GJoSxXg-xWj1BJ1k0yU2pzO2petd8=w1288-h828-no?authuser=1" style="width:100%">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+      <i class="fa fa-home w3-xxlarge"></i>
+      <p>HOME</p>
+    </a>
+    <a href="#about" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+      <i class="fa fa-user w3-xxlarge"></i>
+      <p>ABOUT</p>
+    </a>
+    <a href="#portfolio" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+      <i class="fa fa-eye w3-xxlarge"></i>
+      <p>PORTFOLIO</p>
+    </a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hover-black">
+      <i class="fa fa-envelope w3-xxlarge"></i>
+      <p>CONTACT</p>
+    </a>
+  </nav>
+
+  <!-- Navbar on small screens (Hidden on medium and large screens) -->
+  <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
+    <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
+      <a href="#" class="w3-bar-item w3-button" style="width:25% !important">HOME</a>
+      <a href="#about" class="w3-bar-item w3-button" style="width:25% !important">ABOUT</a>
+      <a href="#portfolio" class="w3-bar-item w3-button" style="width:25% !important">PORTFOLIO</a>
+      <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
+    </div>
+  </div>
+
+  <!-- Page Content -->
+  <div class="w3-padding-large" id="main">
+    <!-- Header/Home -->
+    <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
+      <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Kwame Lockley.</h1>
+      <p>Freelance Software QA Test Engineer.</p>
+      <img src="https://lh3.googleusercontent.com/K6ADYrGJMJzCrpYWyv8Reckjuo14rWNL_q6MSbQxfjW660GBIX_TMZQgdlQ7N1PPna_AIdWpZ9sH99NE-L6VPB0YIMMgvb5KT29XQlAmq1JvegE8-bkvxfDcsyJi7E1arxqryMD2GAJG55kpI1zCUo_QU6FGPyLtTEODpHLO7Gadqha0RpUyyJpHBoFuxRQYJPN4quoTpk1tHuD0VazsyIr-aBjf6r7rxy6JtamBCOiu2yEMEIOcJgBiQ6-9q3yawZUUWjbecUtas_9lMLd4BTOAW7GbOorD6zxZDwfZBdIobdPAWXcJpv-ZBflbbB6AtArIO8cfPRpr4yBS-86RMLJ0Pip0L-jarndJC-_5qDoaQdaA77coT7nibitqMZ4dDeuWICbGgCMOuGdVey7n6XPOrzLQfvYrvGtd90b2LSs0_1y3U7vT8CRAJX9VTycjGTlkinhi5c5LGyJ3ri9jdmqpqIxk06XGrE5DE3SDeq24ys7SMp_1IPdqTOSQ24RE3pZlGGWlU6GRFr-FFOW4s9vSN2KKk6nbb0LVrhexfOUXoJgt-gNegf_w5oL7awx4UsXR9dihiisXjD1hXN425eMO8FNkLaVZmJnQxGpEi7kRmWgy1qurINj7s_kLE4PmhI1qU_-x7wWTqSE5H4w3KOf2d6Nkwnm9QrgNDNhTa6ZYO_Iy2YVdpFGZrOlTPVwJ3nHShVVV92cEjd4t0VDeM8TDBsr_YRQ-y2wBL2aWUhidLt2wz9RQogQd7p6EgbeMzHJBATz60lDbQdoS59-qB21A0Q8TLV3Xo0Skzx0nLpF4uknvF-NX5lnEyX801VaCtIw8mgEh9zZjF2Q58aXPuNLCgWAZC8G2sc_2kXFnX-IjTU8sDuuXyg4NqRJ81JMi5f3ElH1TW_1hD5LdO90-J55LIOPmGSgzsGySGNyYcKkI9677izYpmogkDBMOPEGUM6_tNd8yqxxy-pZoi-l-uzGBS8BJ3-NkhRcHxSQUWmzVNQuJAY1Fkdg=w640-h618-no?authuser=1" alt="boy" class="w3-image" width="992" height="1108">
+    </header>
+
+    <!-- About Section -->
+    <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
+      <h2 class="w3-text-light-grey">Kwame Lockley</h2>
+      <hr style="width:200px" class="w3-opacity">
+      <p>Hi there! My name is Kwame, and I'm a Freelance Software QA Test Engineer with over three years of experience
+        in the field. As a tester, I'm passionate about ensuring that software applications are functional, reliable,
+        and user-friendly, and I take pride in finding and resolving defects and bugs that can impact end-users.</p>
+      <p>
+        Throughout my career, I've gained experience in various testing methodologies, including manual testing,
+        automated testing, and performance testing. I'm also familiar with a range of testing tools, such as Selenium,
+        JMeter, and Appium, and have experience working with Agile development teams.
+      </p>
+      <p>
+        When working on a project, I prioritize clear communication, collaboration, and attention to detail. I'm
+        dedicated to ensuring that software meets the highest quality standards, and I enjoy working with development
+        teams to find ways to improve the overall user experience.
+      </p>
+      <p>
+        In my free time, I enjoy exploring new technologies and programming languages, and I'm always looking for ways
+        to expand my skill set and stay up-to-date with the latest trends in software testing.
+      </p>
+      <p>
+        If you're interested in working with a passionate and dedicated Software QA Test Engineer, I'd love to hear from
+        you!
+
+        Attention to Detail
+      </p>
+      <h3 class="w3-padding-16 w3-text-light-grey">My Skills</h3>
+      <p class="w3-wide">Testing Methodologies</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:95%"></div>
+      </div>
+      <p class="w3-wide">Test Automation</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:55%"></div>
+      </div>
+      <p class="w3-wide">Collaboration and Communication</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:80%"></div>
+      </div>
+      <p class="w3-wide">Attention to Detail</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:80%"></div>
+      </div>
+      <p class="w3-wide">Problem Solving and Analytical Skills</p>
+      <div class="w3-white">
+        <div class="w3-dark-grey" style="height:28px;width:80%"></div>
+      </div><br>
+
+      <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
+        <div class="w3-quarter w3-section">
+          <span class="w3-xlarge">11+</span><br>
+        Partners
+        </div>
+        <div class="w3-quarter w3-section">
+          <span class="w3-xlarge">55+</span><br>
+        Projects Done
+        </div>
+        <div class="w3-quarter w3-section">
+          <span class="w3-xlarge">89+</span><br>
+        Happy Clients
+        </div>
+        <div class="w3-quarter w3-section">
+          <span class="w3-xlarge">150+</span><br>
+        Meetings
+        </div>
+      </div>
+
+      <button class="w3-button w3-light-grey w3-padding-large w3-section">
+      <i class="fa fa-download"></i> Download Resume
+    </button>
+
+      <!-- Grid for pricing tables -->
+      <h3 class="w3-padding-16 w3-text-light-grey">My Price</h3>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+            <li class="w3-dark-grey w3-xlarge w3-padding-32">Basic</li>
+            <li class="w3-padding-16">Manual Testing</li>
+            <li class="w3-padding-16">Test Planning</li>
+            <li class="w3-padding-16">Test Case Development</li>
+            <li class="w3-padding-16"> </li>
+            <li class="w3-padding-16"> </li>
+            <h2>$ 25</h2>
+            <span class="w3-opacity">per hour</span>
+            </li>
+            <li class="w3-light-grey w3-padding-24">
+              <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
+            </li>
+          </ul>
+        </div>
+
+        <div class="w3-margin-bottom">
+          <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+            <li class="w3-dark-grey w3-xlarge w3-padding-32">Standard</li>
+            <li class="w3-padding-16">Manual Testing</li>
+            <li class="w3-padding-16">Automated Testing</li>
+            <li class="w3-padding-16">Test Planning</li>
+            <li class="w3-padding-16">Test Case Development</li>
+            <li class="w3-padding-16">Defect Tracking</li>
+            <h2>$ 40</h2>
+            <span class="w3-opacity">per hour</span>
+            </li>
+            <li class="w3-light-grey w3-padding-24">
+              <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
+            </li>
+          </ul>
+        </div>
+
+        <div class="w3-margin-bottom">
+          <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+            <li class="w3-dark-grey w3-xlarge w3-padding-32">Premium</li>
+            <li class="w3-padding-16"> Manual Testing</li>
+            <li class="w3-padding-16">Automated Testing</li>
+            <li class="w3-padding-16">Test Planning</li>
+            <li class="w3-padding-16">Test Case Development</li>
+            <li class="w3-padding-16">defect tracking</li>
+            <li class="w3-padding-16">Performance Testing</li>
+            <li class="w3-padding-16">Security Testing</li>
+            <h2>$ 60</h2>
+            <span class="w3-opacity">per hour</span>
+            </li>
+            <li class="w3-light-grey w3-padding-24">
+              <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
+            </li>
+          </ul>
+        </div <!-- End Grid/Pricing tables -->
+      </div>
+
+      <!-- Testimonials -->
+      <h3 class="w3-padding-24 w3-text-light-grey">My Reputation</h3>
+      <img src="https://lh3.googleusercontent.com/RNJJdcSJfTwMDwlB-WBK5VrvwYo5YiVaZVthYjEm9NuRDMv7zMXepnSB0IwtdpHYeRQsQ3sNPa6TFsFrV6C09lBEYmPzhDl91TbEzzQ" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+      <p><span class="w3-large w3-margin-right">Andras Moritz.</span> Founder, Chairman and Chief Architect.</p>
+      <p>"Kwame did a great job. He provided detailed reports on testing including screenshots and recordings for issues
+        observed. He was responsive and timely in providing results."</p><br>
+
+      <img src="https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
+      <p><span class="w3-large w3-margin-right">Sean Nguyen.</span>Smith Software Solutions.</p>
+      <p>"Kwame was a pleasure to work with! He is a highly skilled and experienced freelance software QA test engineer.
+        He provided thorough testing services for our company's software and helped us to identify and fix critical
+        issues before release. His communication was excellent throughout the entire process, and he delivered quality
+        work within the agreed timeline. We highly recommend Kwame and Smith Software Solutions for any software testing
+        needs."</p>
+      <!-- End About Section -->
+    </div>
+
+    <!-- Portfolio Section -->
+    <div class="w3-padding-64 w3-content" id="photos">
+      <h2 class="w3-text-light-grey">Portfolio</h2>
+      <hr style="width:200px" class="w3-opacity">
+
+      <!-- Grid for photos -->
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half">
+          <img src="https://www.mindfulqa.com/wp-content/uploads/2018/09/google-logo-1.jpg" style="width:100%">
+          <img src="https://www.mindfulqa.com/wp-content/uploads/2020/11/petsmart.jpg" style="width:100%">
+          <img src="https://aromatnee.net/upload/iblock/852/852af60235871881ea701a311365494f.jpg" style="width:100%">
+          <img src="https://mms.businesswire.com/media/20230223005741/en/838494/23/FARFETCH_LOGOTYPE_RGB.jpg" style="width:100%">
+
+          
+
+        </div>
+
+        <div class="w3-half">
+          <img src="https://www.mindfulqa.com/wp-content/uploads/2019/02/taco-bell-logo.jpg" style="width:100%">
+          <img src="https://www.scrapehero.com/store/wp-content/uploads/2018/11/best.png" style="width:100%">
+
+        </div>
+        <!-- End photo grid -->
+      </div>
+      <!-- End Portfolio Section -->
+    </div>
+
+    <!-- Contact Section -->
+    <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
+      <h2 class="w3-text-light-grey">Contact Me</h2>
+      <hr style="width:200px" class="w3-opacity">
+
+      <div class="w3-section">
+        <p><i class="fa fa-map-marker fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Newport News, VA, US</p>
+        <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +1 212-470-7394</p>
+        <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: KwameLockley.Tester914@mail.com</p>
+      </div><br>
+      <p>Let's get in touch. Send me a message:</p>
+
+      <form action="/action_page.php" target="_blank">
+        <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+        <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="Email"></p>
+        <p><input class="w3-input w3-padding-16" type="text" placeholder="Subject" required name="Subject"></p>
+        <p><input class="w3-input w3-padding-16" type="text" placeholder="Message" required name="Message"></p>
+        <p>
+          <button class="w3-button w3-light-grey w3-padding-large" type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+        </p>
+      </form>
+      <!-- End Contact Section -->
+    </div>
+
+    <!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
+<footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
+  <a href="https://www.linkedin.com/in/kwame-lockley-tester/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <a href="https://github.com/wolfBhuffn" target="_blank"><i class="fa fa-github w3-hover-opacity"></i></a>
+
+
+  <!-- End footer -->
+</footer>
+
+
+    <!-- END PAGE CONTENT -->
+  </div>
+
+</body>
+
+</html>
