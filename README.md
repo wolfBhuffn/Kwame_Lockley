@@ -1,5 +1,3 @@
-# Portfolio - Kwame Lockley 
-
 ![Kwame-Black-Grey](https://media.licdn.com/dms/image/C4E03AQFuxgMvt_XJsQ/profile-displayphoto-shrink_400_400/0/1661441466856?e=1688601600&v=beta&t=M0fLxvImC5ddnimIo69xaEBzYO48CWqAumwr61NWxM8)
 
 ## About me
@@ -282,41 +280,32 @@ Westchester Community College, NYS EMT Certification
 This blog post covers the various stages of a QA engineer's journey, from getting hired to making an impact on the project. It includes tips on how to succeed as a QA engineer and how to become a valuable team member.
 https://testlio.com/blog/the-journey-of-a-qa-engineer-from-getting-hired-to-making-an-impact/
 
-- 10 Essential Skills Every Software Tester Should Master by Sauce Labs: 
+- [10 Essential Skills Every Software Tester Should Master by Sauce Labs:](https://saucelabs.com/blog/10-essential-skills-every-software-tester-should-master)
 This blog post covers the essential skills that every software tester should master, including communication, analytical thinking, and technical skills. It includes tips on how to improve these skills and become a better tester.
-https://saucelabs.com/blog/10-essential-skills-every-software-tester-should-master
 
-- The Role of QA in Agile Development by QASource: 
+- [The Role of QA in Agile Development by QASource:](https://blog.qasource.com/the-role-of-qa-in-agile-development)
 This blog post covers the role of QA in agile development, including the importance of collaboration, communication, and continuous testing. It includes tips on how to ensure quality in an agile environment and how to work effectively with developers and other team members.
-https://blog.qasource.com/the-role-of-qa-in-agile-development
 
-- 5 Tips for Effective Test Planning by TestFort: 
+- [5 Tips for Effective Test Planning by TestFort:](https://testfort.com/blog/5-tips-for-effective-test-planning) 
 This blog post covers five tips for effective test planning, including understanding the project requirements, defining the scope of testing, and creating a test plan. It includes practical advice on how to plan and execute tests effectively.
-https://testfort.com/blog/5-tips-for-effective-test-planning
 
-- Best Practices for Maintaining a Test Automation Framework by Sauce Labs: 
+- [Best Practices for Maintaining a Test Automation Framework by Sauce Labs:](https://saucelabs.com/blog/best-practices-for-maintaining-a-test-automation-framework)
 This blog post covers best practices for maintaining a test automation framework, including version control, code reviews, and continuous integration. It includes tips on how to ensure the reliability and scalability of a test automation framework over time.
-https://saucelabs.com/blog/best-practices-for-maintaining-a-test-automation-framework
 
-- Testing in Production: Pros and Cons" by Testlio: 
+- [Testing in Production: Pros and Cons" by Testlio:](https://testlio.com/blog/testing-in-production-pros-and-cons/)
 This blog post covers the pros and cons of testing in production, including the benefits of real-world testing and the risks of impacting live users. It includes tips on how to safely and effectively test in a production environment.
-https://testlio.com/blog/testing-in-production-pros-and-cons/
 
-- How to Write a Test Plan by QASymphony: 
+- [How to Write a Test Plan by QASymphony:](https://www.qasymphony.com/blog/write-test-plan/) 
 This blog post covers how to write a comprehensive and effective test plan, including defining testing objectives, identifying test cases, and determining testing timelines. It includes practical examples and templates for creating a test plan.
-https://www.qasymphony.com/blog/write-test-plan/
 
-- How to Create an Effective Bug Report by TestFort: 
+- [How to Create an Effective Bug Report by TestFort:](https://testfort.com/blog/how-to-create-an-effective-bug-report)
 This blog post covers how to create an effective bug report, including identifying the issue, providing a clear and concise description, and attaching relevant screenshots or logs. It includes tips on how to write a bug report that helps developers quickly reproduce and fix the issue.
-https://testfort.com/blog/how-to-create-an-effective-bug-report
 
-- 10 Mistakes to Avoid When Testing Your Software by Sauce Labs: 
+- [10 Mistakes to Avoid When Testing Your Software by Sauce Labs:](https://saucelabs.com/blog/10-mistakes-to-avoid-when-testing-your-software)
 This blog post covers 10 common mistakes to avoid when testing software, including testing without a plan, testing too late in the development process, and not testing for edge cases. It includes tips on how to avoid these mistakes and ensure effective testing.
-https://saucelabs.com/blog/10-mistakes-to-avoid-when-testing-your-software
 
-- The Benefits of Continuous Testing by Testlio: 
+- [The Benefits of Continuous Testing by Testlio:](https://testlio.com/blog/the-benefits-of-continuous-testing/)
 This blog post covers the benefits of continuous testing, including improved quality, faster feedback, and reduced costs. It includes tips on how to implement continuous testing in your organization and ensure that testing is an integral part of the development process.
-https://testlio.com/blog/the-benefits-of-continuous-testing/
 
 ## Skills training
 
