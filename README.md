@@ -12,7 +12,7 @@ In my free time, I enjoy exploring new technologies and learning about the lates
 
 Thank you for taking the time to visit my portfolio website. If you have any questions or would like to discuss a potential project, please don't hesitate to get in touch.
 
-https://www.linkedin.com/in/kwame-lockley-tester/
+Clickity-click this button to connect with the most fascinating person on [LinkedIn](https://www.linkedin.com/in/kwame-lockley-tester/)... Kwame, of course!
 
 
 # CV
