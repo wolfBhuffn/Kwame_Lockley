@@ -14,6 +14,10 @@ Thank you for taking the time to visit my portfolio website. If you have any que
 
 https://www.linkedin.com/in/kwame-lockley-tester/
 
+
+# CV
+- (LINK HERE)
+
 ## Tools
 
 ### Agile Project Management Tools: 
@@ -348,6 +352,3 @@ A QA should be able to maintain and update test cases and test suites to ensure 
 ### Test cases and work in TestRail (LINK / Screenshots HERE)
 ### Bug reports and work in Jira (LINK / Screenshots HERE)
 ### Mindmaps and diagrams (LINK / Screenshots HERE)
-
-# CV
-- (LINK HERE)
