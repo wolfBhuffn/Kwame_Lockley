@@ -16,7 +16,7 @@ https://www.linkedin.com/in/kwame-lockley-tester/
 
 
 # CV
-- [Kwame Lockley]([url](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb))
+- This is my CV [Kwame](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb)
 
 ## Tools
 
