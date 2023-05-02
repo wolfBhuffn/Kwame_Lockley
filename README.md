@@ -255,24 +255,24 @@ Westchester Community College, NYS EMT Certification
 ## Courses & Certificates
 
 ### Coursera
-  - Software Development Processes and Methodologies - Credential ID : 9VBWTKDFT7RX
-  - Agile with Atlassian Jira - Credential ID :ERD26GMUAQG9
-  - API Testing Using Rest Assured Test Automation Tool - Credential ID : CD8SZKJN5PRN
-  - Create User Stories in Trello - Credential ID : N8F2UBDHTS3Z
-  - Hosting SQL Server & Database with Azure - Credential ID : H3R648S2HLR7
+  - [Software Development Processes and Methodologies](https://www.coursera.org/account/accomplishments/verify/9VBWTKDFT7RX)
+  - [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/certificate/ERD26GMUAQG9)
+  - [API Testing Using Rest Assured Test Automation Tool](https://www.coursera.org/account/accomplishments/certificate/CD8SZKJN5PRN)
+  - [Create User Stories in Trello](https://www.coursera.org/account/accomplishments/certificate/N8F2UBDHTS3Z)
+  - [Hosting SQL Server & Database with Azure](https://www.coursera.org/account/accomplishments/certificate/H3R648S2HLR7)
  
 ### FreeCodeCamp
- - Quality Assurance - Credential ID : fcc510249e6-6b56-476b-8ef3-166ff4a3b96d
- - Back End Development and APIs - Credential ID : fcc510249e6-6b56-476b-8ef3-166ff4a3b96d
+ - [Quality Assurance](https://www.freecodecamp.org/certification/fcc510249e6-6b56-476b-8ef3-166ff4a3b96d/quality-assurance-v7)
+ - [Back End Development and APIs](https://www.freecodecamp.org/certification/fcc510249e6-6b56-476b-8ef3-166ff4a3b96d/back-end-development-and-apis)
 
 ### LambdaTest
- - Selenium 101 Certification - Credential ID : S101-0L6682
+ - [Selenium 101 Certification](https://www.lambdatest.com/certifications/lambdatest-certified/S101-0L6682.png)
 
 ## Technical Books read
- - How to Break Software: A Practical Guide to Testing
- - Testing Object-Oriented Systems: Models, Patterns, and Tools
- - Software Testing Techniques, 2nd Edition
- - The Art of Software Testing
+ - [How to Break Software: A Practical Guide to Testing](https://a.co/d/5PlEfIw)
+ - [Testing Object-Oriented Systems: Models, Patterns, and Tools](https://a.co/d/d49z6LY)
+ - [Software Testing Techniques, 2nd Edition](https://a.co/d/c8gWxiU)
+ - [The Art of Software Testing](https://a.co/d/gtjP8qg)
 
 ## Blogs read
 
