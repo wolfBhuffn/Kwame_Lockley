@@ -276,9 +276,8 @@ Westchester Community College, NYS EMT Certification
 
 ## Blogs read
 
-- The Journey of a QA Engineer: From Getting Hired to Making an Impact by Testlio: 
+- [The Journey of a QA Engineer: From Getting Hired to Making an Impact by Testlio:](https://testlio.com/blog/the-journey-of-a-qa-engineer-from-getting-hired-to-making-an-impact/) 
 This blog post covers the various stages of a QA engineer's journey, from getting hired to making an impact on the project. It includes tips on how to succeed as a QA engineer and how to become a valuable team member.
-https://testlio.com/blog/the-journey-of-a-qa-engineer-from-getting-hired-to-making-an-impact/
 
 - [10 Essential Skills Every Software Tester Should Master by Sauce Labs:](https://saucelabs.com/blog/10-essential-skills-every-software-tester-should-master)
 This blog post covers the essential skills that every software tester should master, including communication, analytical thinking, and technical skills. It includes tips on how to improve these skills and become a better tester.
