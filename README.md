@@ -16,7 +16,7 @@ https://www.linkedin.com/in/kwame-lockley-tester/
 
 
 # CV
-- This is my CV [Kwame](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb)
+- Click here to unleash the power of my awesomeness, and see why they call me the testing guru! ...Okay, maybe not 'they', but definitely my mom. 😇👉🏽[Kwame](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb)
 
 ## Tools
 
