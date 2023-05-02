@@ -1,4 +1,6 @@
-# Portfolio - Kwame Lockley
+# Portfolio - Kwame Lockley 
+
+![Kwame-Black-Grey](https://drive.google.com/file/d/1M85f2yFmgoleiyjkgnNKfNe-1K06AuLn/view?usp=share_link)
 
 ## About me
 Hi, I'm Kwame! 
