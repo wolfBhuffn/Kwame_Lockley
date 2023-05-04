@@ -21,54 +21,54 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 
 ## Tools
 
-### Requirements Management Tools: 
+### Requirements Management Tools:
 Requirements management tools help to manage and track the requirements for a software project. 
  - Jira
  - Jama
     
-### Agile Project Management Tools: 
+### Agile Project Management Tools:
 Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
  - Jira Agile
  - Trello
  - Asana
 
-### Collaboration Tools: 
+### Collaboration Tools:
 Collaboration tools help team members communicate and collaborate on software development tasks. 
  - Slack
  - Microsoft Teams
  - Asana
  
-### Test Management Tools: 
+### Test Management Tools:
 Test management tools help to plan, execute, and report on software testing activities.
  - TestRail
  - Zephyr
  - qTest 
  
-### Test Case Management Tools: 
+### Test Case Management Tools:
 Test case management tools help to create and manage software testing scenarios, ensuring that all necessary tests are executed. 
  - TestRail
  - PractiTest
  - HP ALM
   
-### Test Data Management Tools: 
+### Test Data Management Tools:
 Test data management tools help to create and manage test data sets that are used in software testing. 
  - Delphix
  - Informatica,
  - IBM Optim
   
-### Test Data Generation Tools: 
- Test data generation tools help to create synthetic data sets that can be used in software testing.
+### Test Data Generation Tools:
+Test data generation tools help to create synthetic data sets that can be used in software testing.
  - Mockaroo
  - Faker
  - DataFactory
   
-### Test Automation Tools: 
+### Test Automation Tools:
 Test automation tools help to automate repetitive testing tasks, which saves time and reduces the risk of human error. 
  - Selenium
  - Appium  
  - TestComplete
   
-### Bug Tracking Tools: 
+### Bug Tracking Tools:
 Bug tracking tools help to track and manage software defects throughout the software development lifecycle.
  - Jira
  - Bugzilla
@@ -80,108 +80,108 @@ CI/CD tools help to automate the process of building, testing, and deploying sof
  - Travis CI
  - CircleCI
   
-### Continuous Testing Tools: 
+### Continuous Testing Tools:
 Continuous testing tools help to automate the process of testing software throughout the development lifecycle. 
  - Tricentis Tosca
  - Sauce Labs
  - Testim
  
-### Code Review Tools: 
+### Code Review Tools:
 Code review tools help to identify and fix potential issues in software code.
  - GitHub
  - GitLab
  - Crucible
   
-### Version Control Tools: 
+### Version Control Tools:
 Version control tools help to manage changes to software code and other project files. 
  - Git
  - Subversion
  - Mercurial
   
-### Performance Testing Tools: 
+### Performance Testing Tools:
 Performance testing tools help to evaluate the speed, scalability, and stability of software under different conditions.
  - JMeter
  - LoadRunner
  - Gatling
   
-### Load Testing Tools: 
+### Load Testing Tools:
 Load testing tools help to evaluate the performance of software under heavy load or stress conditions. 
  - Apache JMeter
  - LoadRunner
  - BlazeMeter
   
-### Security Testing Tools: 
+### Security Testing Tools:
 Security testing tools help to identify vulnerabilities in software and ensure that it meets security standards.
  - OWASP ZAP 
  - Nessus 
  - Burp Suite
   
-### Accessibility Testing Tools: 
+### Accessibility Testing Tools:
 Accessibility testing tools help to ensure that software is accessible to users with disabilities.
  - Axe
  - Tenon
  - WAVE
   
-### User Interface (UI) Testing Tools: 
+### User Interface (UI) Testing Tools:
 UI testing tools help to test the graphical user interface (GUI) of software applications, ensuring that it functions correctly and is user-friendly. 
  - TestComplete
  - Katalon Studio
  - Telerik Test Studio
   
-### API Testing Tools: 
+### API Testing Tools:
 API testing tools help to test application programming interfaces (APIs) that are used to integrate software applications. 
  - Postman
  - SoapUI
  - Swagger
   
-### Exploratory Testing Tools: 
+### Exploratory Testing Tools:
 Exploratory testing tools help to support manual testing activities, allowing QA Engineers to explore software applications and identify issues. 
  - Session-Based Test Management (SBTM) 
  - Rapid Software Testing
   
-### Virtualization Tools: 
+### Virtualization Tools:
 Virtualization tools help to create virtual environments for testing software.
  - VirtualBox
  - VMware
  - Hyper-V
   
-### Test Reporting and Analytics Tools: 
+### Test Reporting and Analytics Tools:
 Test reporting and analytics tools help to visualize and analyze software testing data, providing insights into the quality of the software. 
  - TestRail
  - Zephyr
  - qTest
   
-### DevOps Tools: 
+### DevOps Tools:
 DevOps tools help to automate the software development and deployment process, promoting collaboration between development and operations teams. 
  - Docker
  - Kubernetes
  - Ansible
   
-### Monitoring Tools: 
+### Monitoring Tools:
 Monitoring tools help to track the performance and availability of software systems in production.
  - Nagios
  - Zabbix,
  - New Relic
   
-### Behavior Driven Development (BDD) Tools: 
+### Behavior Driven Development (BDD) Tools:
 BDD tools help to automate testing scenarios based on business requirements, improving collaboration between stakeholders and software developers. 
  - Cucumber
  - SpecFlow
  - Behave
   
-### Mobile Testing Tools: 
+### Mobile Testing Tools:
 Mobile testing tools help to test software applications that run on mobile devices. 
  - Appium
  - Calabash
  - TestComplete Mobile
   
-### Mobile Device Testing Tools: 
+### Mobile Device Testing Tools:
 Mobile device testing tools help to test software applications on different mobile devices and platforms. 
  - Xamarin Test Cloud
  - AWS Device Farm
  - Perfecto Mobile
   
-### Usability Testing Tools: 
+### Usability Testing Tools:
 Usability testing tools help to evaluate the user-friendliness of software and identify areas for improvement. 
  - UserTesting
  - UsabilityHub
@@ -189,7 +189,7 @@ Usability testing tools help to evaluate the user-friendliness of software and i
 
 ## Tech Skills
 
-### Test planning and design: 
+### Test planning and design:
 A QA Test Engineer should be able to create effective test plans and test cases that cover all functional and non-functional requirements of the software. This includes understanding the business requirements and user stories, and designing tests that validate the expected behavior of the software.
 
 ### Test automation: 
