@@ -23,9 +23,9 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 
 <!--MY WORK EXAMPLES SECTION________________________________________________________________________________________________________________-->
 ## My Work (Examples):
+### Mindmaps and diagrams (LINK / Screenshots HERE)
 ### Test cases and work in TestRail (LINK / Screenshots HERE)
 ### Bug reports and work in Jira (LINK / Screenshots HERE)
-### Mindmaps and diagrams (LINK / Screenshots HERE)
 
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
 ## Tools
