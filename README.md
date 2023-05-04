@@ -201,7 +201,8 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 
 <!--TECH_SKILLS SECTION________________________________________________________________________________________________________________-->
 ## Tech Skills
-
+<details>
+<summary>Everything I know, Captain!</summary>
 ### Test planning and design:
 I am able to create effective test plans and test cases that cover all functional and non-functional requirements of the software. This includes understanding the business requirements and user stories, and designing tests that validate the expected behavior of the software.
 
@@ -261,7 +262,9 @@ I have strong communication skills, both verbal and written. I am able to clearl
 
 ### Risk management: 
 I have experience with risk management techniques such as risk analysis and risk mitigation planning. I am able to identify potential risks and prioritize testing efforts based on the level of risk.
+</details>
 
+<!--PROFESSIONAL EDUCATION SECTION________________________________________________________________________________________________________________-->
 ## Professional Education
 Bronx Community College, AAS Radiologic Technology
 Westchester Community College, NYS EMT Certification
@@ -292,7 +295,8 @@ Westchester Community College, NYS EMT Certification
 
 <!--BLOGS READ SECTION________________________________________________________________________________________________________________-->
 ## Blogs read
-
+<details>
+<summary>Blogs</summary>
 - [The Journey of a QA Engineer: From Getting Hired to Making an Impact by Testlio:](https://testlio.com/blog/the-journey-of-a-qa-engineer-from-getting-hired-to-making-an-impact/) 
 This blog post covers the various stages of a QA engineer's journey, from getting hired to making an impact on the project. It includes tips on how to succeed as a QA engineer and how to become a valuable team member.
 
@@ -322,36 +326,39 @@ This blog post covers 10 common mistakes to avoid when testing software, includi
 
 - [The Benefits of Continuous Testing by Testlio:](https://testlio.com/blog/the-benefits-of-continuous-testing/)
 This blog post covers the benefits of continuous testing, including improved quality, faster feedback, and reduced costs. It includes tips on how to implement continuous testing in your organization and ensure that testing is an integral part of the development process.
+</details>
 
 <!--SKILLS & TRAINING SECTION________________________________________________________________________________________________________________-->
 ## Skills training
-
+<details>
+<summary>This is what you really want to know!</summary>
 ### Understanding of software development life cycle (SDLC): 
-A QA should have a good understanding of SDLC and be familiar with the different phases such as requirements gathering, design, development, testing, and maintenance.
+I have a good understanding of SDLC and be familiar with the different phases such as requirements gathering, design, development, testing, and maintenance.
 
 ### Test planning and design: 
-A QA should have the ability to create test plans, test cases, and test scenarios based on the requirements and design documents.
+I have the ability to create test plans, test cases, and test scenarios based on the requirements and design documents.
 
 ### Test automation: 
-A QA should be skilled in automation testing and have experience with popular automation tools such as Selenium, Appium, or TestComplete.
+I am skilled in automation testing and have experience with popular automation tools such as Selenium, Appium, or TestComplete.
 
 ### Defect management: 
-A QA should be able to identify, report, and track defects through a defect tracking system and should have experience in using tools like JIRA, Bugzilla, or HP ALM.
+I am able to identify, report, and track defects through a defect tracking system and have experience in using tools like JIRA, Bugzilla, or HP ALM.
 
 ### Performance testing: 
-A QA should have a good understanding of performance testing concepts, tools, and techniques such as load testing, stress testing, and scalability testing.
+I have a good understanding of performance testing concepts, tools, and techniques such as load testing, stress testing, and scalability testing.
 
 ### Security testing: 
-A QA should have knowledge of security testing and be able to identify security vulnerabilities and threats in the system.
+I have knowledge of security testing and be able to identify security vulnerabilities and threats in the system.
 
 ### Test data management: 
-A QA should be able to manage test data and create test data sets that simulate real-world scenarios.
+I am able to manage test data and create test data sets that simulate real-world scenarios.
 
 ### Communication and collaboration: 
-A QA should have good communication and collaboration skills to work effectively with development teams, project managers, and stakeholders.
+I have good communication and collaboration skills to work effectively with development teams, project managers, and stakeholders.
 
 ### Continuous integration and continuous delivery (CI/CD): 
-A QA should be familiar with CI/CD principles and tools such as Jenkins, Git, and Docker.
+I am familiar with CI/CD principles and tools such as Jenkins, Git, and Docker.
 
 ### Maintenance and regression testing: 
-A QA should be able to maintain and update test cases and test suites to ensure that they remain relevant and effective over time. They should also be able to perform regression testing to ensure that changes to the system do not affect existing functionality.
+I am able to maintain and update test cases and test suites to ensure that they remain relevant and effective over time. I am also be able to perform regression testing to ensure that changes to the system do not affect existing functionality.
+</details>
