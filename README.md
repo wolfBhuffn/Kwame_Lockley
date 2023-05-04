@@ -28,7 +28,8 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 ### Bug reports and work in Jira (LINK / Screenshots HERE)
 
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
-## Tools
+<details>
+<summary>## Tools</summary>
 
 ### Requirements Management Tools[^1]:
 [^1]: Requirements management tools help to manage and track the requirements for a software project. 
@@ -195,6 +196,7 @@ Clickity-click this button to connect with the most fascinating person on [Linke
  - UserTesting
  - UsabilityHub
  - Optimal Workshop
+ </details>
 
 <!--TECH_SKILLS SECTION________________________________________________________________________________________________________________-->
 ## Tech Skills
