@@ -30,7 +30,7 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
 ## Tools that I know
 <details>
-<summary>Tools</summary>
+<summary>Tools List</summary>
 
 ### Requirements Management Tools[^1]:
 [^1]: Requirements management tools help to manage and track the requirements for a software project. 
