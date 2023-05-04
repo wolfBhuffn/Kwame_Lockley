@@ -1,7 +1,8 @@
+<!--PORTFOLIO IMAGE SECTION________________________________________________________________________________________________________________-->
 ![Kwame-Black-Grey](https://media.licdn.com/dms/image/C4E03AQFuxgMvt_XJsQ/profile-displayphoto-shrink_400_400/0/1661441466856?e=1688601600&v=beta&t=M0fLxvImC5ddnimIo69xaEBzYO48CWqAumwr61NWxM8)
 
 <!-- This is a COMMENT and the content will not appear in the rendered Markdown -->
-
+<!--ABOUT ME SECTION________________________________________________________________________________________________________________-->
 ## About me
 Hi, I'm Kwame! 
 I have been working in software testing for 2-3 years and have gained experience in various tools and technologies. My passion for technology and my eye for detail have led me to pursue a career in QA testing.
@@ -16,10 +17,17 @@ Thank you for taking the time to visit my portfolio website. If you have any que
 
 Clickity-click this button to connect with the most fascinating person on [LinkedIn](https://www.linkedin.com/in/kwame-lockley-tester/)... Kwame, of course!
 
-
+<!--CV SECTION________________________________________________________________________________________________________________-->
 # CV
 - Click here to unleash the power of [my awesomeness](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb), and see why they call me the testing guru! ...Okay, maybe not 'they', but definitely my mom. 😇
 
+<!--MY WORK EXAMPLES SECTION________________________________________________________________________________________________________________-->
+## My Work (Examples):
+### Test cases and work in TestRail (LINK / Screenshots HERE)
+### Bug reports and work in Jira (LINK / Screenshots HERE)
+### Mindmaps and diagrams (LINK / Screenshots HERE)
+
+<!--TOOLS SECTION________________________________________________________________________________________________________________-->
 ## Tools
 
 ### Requirements Management Tools:
@@ -188,6 +196,7 @@ Usability testing tools help to evaluate the user-friendliness of software and i
  - UsabilityHub
  - Optimal Workshop
 
+<!--TECH_SKILLS SECTION________________________________________________________________________________________________________________-->
 ## Tech Skills
 
 ### Test planning and design:
@@ -254,6 +263,7 @@ A QA Test Engineer should have experience with risk management techniques such a
 Bronx Community College, AAS Radiologic Technology
 Westchester Community College, NYS EMT Certification
 
+<!--COURSES & CERTIFICATIONS SECTION________________________________________________________________________________________________________________-->
 ## Courses & Certificates
 
 ### Coursera
@@ -270,12 +280,14 @@ Westchester Community College, NYS EMT Certification
 ### LambdaTest
  - [Selenium 101 Certification](https://www.lambdatest.com/certifications/lambdatest-certified/S101-0L6682.png)
 
+<!--TECHNICAL BOOKS READ SECTION________________________________________________________________________________________________________________-->
 ## Technical Books read
  - [How to Break Software: A Practical Guide to Testing](https://a.co/d/5PlEfIw)
  - [Testing Object-Oriented Systems: Models, Patterns, and Tools](https://a.co/d/d49z6LY)
  - [Software Testing Techniques, 2nd Edition](https://a.co/d/c8gWxiU)
  - [The Art of Software Testing](https://a.co/d/gtjP8qg)
 
+<!--BLOGS READ SECTION________________________________________________________________________________________________________________-->
 ## Blogs read
 
 - [The Journey of a QA Engineer: From Getting Hired to Making an Impact by Testlio:](https://testlio.com/blog/the-journey-of-a-qa-engineer-from-getting-hired-to-making-an-impact/) 
@@ -308,6 +320,7 @@ This blog post covers 10 common mistakes to avoid when testing software, includi
 - [The Benefits of Continuous Testing by Testlio:](https://testlio.com/blog/the-benefits-of-continuous-testing/)
 This blog post covers the benefits of continuous testing, including improved quality, faster feedback, and reduced costs. It includes tips on how to implement continuous testing in your organization and ensure that testing is an integral part of the development process.
 
+<!--SKILLS & TRAINING SECTION________________________________________________________________________________________________________________-->
 ## Skills training
 
 ### Understanding of software development life cycle (SDLC): 
@@ -339,8 +352,3 @@ A QA should be familiar with CI/CD principles and tools such as Jenkins, Git, an
 
 ### Maintenance and regression testing: 
 A QA should be able to maintain and update test cases and test suites to ensure that they remain relevant and effective over time. They should also be able to perform regression testing to ensure that changes to the system do not affect existing functionality.
-
-## My Work (Examples):
-### Test cases and work in TestRail (LINK / Screenshots HERE)
-### Bug reports and work in Jira (LINK / Screenshots HERE)
-### Mindmaps and diagrams (LINK / Screenshots HERE)
