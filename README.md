@@ -2,11 +2,6 @@
   <img src="https://media.licdn.com/dms/image/C4E03AQFuxgMvt_XJsQ/profile-displayphoto-shrink_400_400/0/1661441466856?e=1688601600&amp;v=beta&amp;t=M0fLxvImC5ddnimIo69xaEBzYO48CWqAumwr61NWxM8" alt="Kwame-Black-Grey" />
 </p>
 
-<style>
-  p {
-    text-align: center;
-  }
-</style>
 
 ## About me
 Hi, I'm Kwame! 
