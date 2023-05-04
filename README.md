@@ -28,8 +28,8 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 ### Bug reports and work in Jira (LINK / Screenshots HERE)
 
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
+## Tools that I know
 <details>
-## Tools
 <summary>Tools</summary>
 
 ### Requirements Management Tools[^1]:
