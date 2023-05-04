@@ -1,5 +1,6 @@
 ![Kwame-Black-Grey](https://media.licdn.com/dms/image/C4E03AQFuxgMvt_XJsQ/profile-displayphoto-shrink_400_400/0/1661441466856?e=1688601600&v=beta&t=M0fLxvImC5ddnimIo69xaEBzYO48CWqAumwr61NWxM8)
 
+<!-- This is a COMMENT and the content will not appear in the rendered Markdown -->
 
 ## About me
 Hi, I'm Kwame! 
@@ -21,7 +22,7 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 
 ## Tools
 
-### Requirements Management Tools:
+### Requirements Management Tools:[^1]
 Requirements management tools help to manage and track the requirements for a software project. 
  - Jira
  - Jama
