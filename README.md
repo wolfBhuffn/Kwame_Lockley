@@ -21,6 +21,11 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 
 ## Tools
 
+ ### Requirements Management Tools: 
+ Requirements management tools help to manage and track the requirements for a software project. 
+  - Jira
+  - Jama
+    
 ### Agile Project Management Tools: 
 Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
  - Jira Agile
@@ -33,159 +38,154 @@ Collaboration tools help team members communicate and collaborate on software de
  - Microsoft Teams
  - Asana
  
- ### Test Reporting and Analytics Tools: 
- Test reporting and analytics tools help to visualize and analyze software testing data, providing insights into the quality of the software. 
-  - TestRail
-  - Zephyr
-  - qTest
-
-### Test Data Management Tools: 
-Test data management tools help to create and manage test data sets that are used in software testing. 
- - Delphix
- - Informatica,
- - IBM Optim
- 
- ### Test Data Generation Tools: 
- Test data generation tools help to create synthetic data sets that can be used in software testing.
-  - Mockaroo
-  - Faker
-  - DataFactory
-
 ### Test Management Tools: 
 Test management tools help to plan, execute, and report on software testing activities.
  - TestRail
  - Zephyr
- - qTest
+ - qTest 
  
- ### Requirements Management Tools: 
- Requirements management tools help to manage and track the requirements for a software project. 
-  - Jira
-  - Jama
-  
  ### Test Case Management Tools: 
  Test case management tools help to create and manage software testing scenarios, ensuring that all necessary tests are executed. 
   - TestRail
   - PractiTest
   - HP ALM
-
-### Test Automation Tools: 
-Test automation tools help to automate repetitive testing tasks, which saves time and reduces the risk of human error. 
- - Selenium
- - Appium  
- - TestComplete
- 
-### Bug Tracking Tools: 
-Bug tracking tools help to track and manage software defects throughout the software development lifecycle.
- - Jira
- - Bugzilla
- - Mantis
-
+  
+ ### Test Data Management Tools: 
+ Test data management tools help to create and manage test data sets that are used in software testing. 
+  - Delphix
+  - Informatica,
+  - IBM Optim
+  
+ ### Test Data Generation Tools: 
+ Test data generation tools help to create synthetic data sets that can be used in software testing.
+  - Mockaroo
+  - Faker
+  - DataFactory
+  
+ ### Test Automation Tools: 
+ Test automation tools help to automate repetitive testing tasks, which saves time and reduces the risk of human error. 
+  - Selenium
+  - Appium  
+  - TestComplete
+  
+ ### Bug Tracking Tools: 
+ Bug tracking tools help to track and manage software defects throughout the software development lifecycle.
+  - Jira
+  - Bugzilla
+  - Mantis
+  
+ ### Continuous Integration/Continuous Delivery (CI/CD) Tools:
+ CI/CD tools help to automate the process of building, testing, and deploying software.
+  - Jenkins
+  - Travis CI
+  - CircleCI
+  
 ### Continuous Testing Tools: 
 Continuous testing tools help to automate the process of testing software throughout the development lifecycle. 
  - Tricentis Tosca
  - Sauce Labs
  - Testim
-
-### Exploratory Testing Tools: 
-Exploratory testing tools help to support manual testing activities, allowing QA Engineers to explore software applications and identify issues. 
- - Session-Based Test Management (SBTM) 
- - Rapid Software Testing
- 
- ### API Testing Tools: 
- API testing tools help to test application programming interfaces (APIs) that are used to integrate software applications. 
-  - Postman
-  - SoapUI
-  - Swagger
-
-### Mobile Testing Tools: 
-Mobile testing tools help to test software applications that run on mobile devices. 
- - Appium
- - Calabash
- - TestComplete Mobile
- 
-### Mobile Device Testing Tools: 
-Mobile device testing tools help to test software applications on different mobile devices and platforms. 
- - Xamarin Test Cloud
- - AWS Device Farm
- - Perfecto Mobile
- 
-### User Interface (UI) Testing Tools: 
-UI testing tools help to test the graphical user interface (GUI) of software applications, ensuring that it functions correctly and is user-friendly. 
- - TestComplete
- - Katalon Studio
- - Telerik Test Studio
- 
- ### Behavior Driven Development (BDD) Tools: 
- BDD tools help to automate testing scenarios based on business requirements, improving collaboration between stakeholders and software developers. 
-  - Cucumber
-  - SpecFlow
-  - Behave
- 
- ### DevOps Tools: 
- DevOps tools help to automate the software development and deployment process, promoting collaboration between development and operations teams. 
-  - Docker
-  - Kubernetes
-  - Ansible
-
-### Version Control Tools: 
-Version control tools help to manage changes to software code and other project files. 
- - Git
- - Subversion
- - Mercurial
-
-### Continuous Integration/Continuous Delivery (CI/CD) Tools:
-CI/CD tools help to automate the process of building, testing, and deploying software.
- - Jenkins
- - Travis CI
- - CircleCI
- 
- ### Usability Testing Tools: 
- Usability testing tools help to evaluate the user-friendliness of software and identify areas for improvement. 
-  - UserTesting
-  - UsabilityHub
-  - Optimal Workshop
- 
-### Performance Testing Tools: 
-Performance testing tools help to evaluate the speed, scalability, and stability of software under different conditions.
- - JMeter
- - LoadRunner
- - Gatling
- 
- ### Load Testing Tools: 
- Load testing tools help to evaluate the performance of software under heavy load or stress conditions. 
-  - Apache JMeter
-  - LoadRunner
-  - BlazeMeter
- 
- ### Security Testing Tools: 
- Security testing tools help to identify vulnerabilities in software and ensure that it meets security standards.
-  - OWASP ZAP 
-  - Nessus 
-  - Burp Suite
-  
-  ### Accessibility Testing Tools: 
-  Accessibility testing tools help to ensure that software is accessible to users with disabilities.
-   - Axe
-   - Tenon
-   - WAVE
  
  ### Code Review Tools: 
  Code review tools help to identify and fix potential issues in software code.
   - GitHub
   - GitLab
   - Crucible
-
-### Monitoring Tools: 
-Monitoring tools help to track the performance and availability of software systems in production.
- - Nagios
- - Zabbix,
- - New Relic
- 
+  
+### Version Control Tools: 
+Version control tools help to manage changes to software code and other project files. 
+ - Git
+ - Subversion
+ - Mercurial
+  
+ ### Performance Testing Tools: 
+ Performance testing tools help to evaluate the speed, scalability, and stability of software under different conditions.
+  - JMeter
+  - LoadRunner
+  - Gatling
+  
+ ### Load Testing Tools: 
+ Load testing tools help to evaluate the performance of software under heavy load or stress conditions. 
+  - Apache JMeter
+  - LoadRunner
+  - BlazeMeter
+  
+ ### Security Testing Tools: 
+ Security testing tools help to identify vulnerabilities in software and ensure that it meets security standards.
+  - OWASP ZAP 
+  - Nessus 
+  - Burp Suite
+  
+ ### Accessibility Testing Tools: 
+ Accessibility testing tools help to ensure that software is accessible to users with disabilities.
+  - Axe
+  - Tenon
+  - WAVE
+  
+ ### User Interface (UI) Testing Tools: 
+ UI testing tools help to test the graphical user interface (GUI) of software applications, ensuring that it functions correctly and is user-friendly. 
+  - TestComplete
+  - Katalon Studio
+  - Telerik Test Studio
+  
+ ### API Testing Tools: 
+ API testing tools help to test application programming interfaces (APIs) that are used to integrate software applications. 
+  - Postman
+  - SoapUI
+  - Swagger
+  
+ ### Exploratory Testing Tools: 
+ Exploratory testing tools help to support manual testing activities, allowing QA Engineers to explore software applications and identify issues. 
+  - Session-Based Test Management (SBTM) 
+  - Rapid Software Testing
+  
  ### Virtualization Tools: 
  Virtualization tools help to create virtual environments for testing software.
   - VirtualBox
   - VMware
   - Hyper-V
+  
+ ### Test Reporting and Analytics Tools: 
+ Test reporting and analytics tools help to visualize and analyze software testing data, providing insights into the quality of the software. 
+  - TestRail
+  - Zephyr
+  - qTest
+  
+ ### DevOps Tools: 
+ DevOps tools help to automate the software development and deployment process, promoting collaboration between development and operations teams. 
+  - Docker
+  - Kubernetes
+  - Ansible
+  
+ ### Monitoring Tools: 
+ Monitoring tools help to track the performance and availability of software systems in production.
+  - Nagios
+  - Zabbix,
+  - New Relic
+  
+ ### Behavior Driven Development (BDD) Tools: 
+ BDD tools help to automate testing scenarios based on business requirements, improving collaboration between stakeholders and software developers. 
+  - Cucumber
+  - SpecFlow
+  - Behave
+  
+ ### Mobile Testing Tools: 
+ Mobile testing tools help to test software applications that run on mobile devices. 
+  - Appium
+  - Calabash
+  - TestComplete Mobile
+  
+ ### Mobile Device Testing Tools: 
+ Mobile device testing tools help to test software applications on different mobile devices and platforms. 
+  - Xamarin Test Cloud
+  - AWS Device Farm
+  - Perfecto Mobile
+  
+ ### Usability Testing Tools: 
+ Usability testing tools help to evaluate the user-friendliness of software and identify areas for improvement. 
+  - UserTesting
+  - UsabilityHub
+  - Optimal Workshop
 
 ## Tech Skills
 
