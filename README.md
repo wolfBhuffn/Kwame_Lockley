@@ -1,7 +1,7 @@
 <!--PORTFOLIO IMAGE SECTION________________________________________________________________________________________________________________-->
 ![Kwame-Black-Grey](https://media.licdn.com/dms/image/C4E03AQFuxgMvt_XJsQ/profile-displayphoto-shrink_400_400/0/1661441466856?e=1688601600&v=beta&t=M0fLxvImC5ddnimIo69xaEBzYO48CWqAumwr61NWxM8)
 
-<!-- This is a COMMENT and the content will not appear in the rendered Markdown -->
+<!-- This is a COMMENT & the content will not appear in the rendered Markdown -->
 <!--ABOUT ME SECTION________________________________________________________________________________________________________________-->
 ## About me
 Hi, I'm Kwame! 
