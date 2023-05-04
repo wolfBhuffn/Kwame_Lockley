@@ -35,8 +35,8 @@ Requirements management tools help to manage and track the requirements for a so
  - Jira
  - Jama
     
-### Agile Project Management Tools:
-Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
+### Agile Project Management Tools[^1]:
+[^1]: Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
  - Jira Agile
  - Trello
  - Asana
