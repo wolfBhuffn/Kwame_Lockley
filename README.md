@@ -30,168 +30,168 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
 ## Tools
 
-### Requirements Management Tools:
-Requirements management tools help to manage and track the requirements for a software project. 
+### Requirements Management Tools[^1]:
+[^1]: Requirements management tools help to manage and track the requirements for a software project. 
  - Jira
  - Jama
     
-### Agile Project Management Tools[^1]:
-[^1]: Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
+### Agile Project Management Tools[^2]:
+[^2]: Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
  - Jira Agile
  - Trello
  - Asana
 
-### Collaboration Tools:
-Collaboration tools help team members communicate and collaborate on software development tasks. 
+### Collaboration Tools[^3]:
+[^3]: Collaboration tools help team members communicate and collaborate on software development tasks. 
  - Slack
  - Microsoft Teams
  - Asana
  
-### Test Management Tools:
-Test management tools help to plan, execute, and report on software testing activities.
+### Test Management Tools[^4]:
+[^4]: Test management tools help to plan, execute, and report on software testing activities.
  - TestRail
  - Zephyr
  - qTest 
  
-### Test Case Management Tools:
-Test case management tools help to create and manage software testing scenarios, ensuring that all necessary tests are executed. 
+### Test Case Management Tools[^5]:
+[^5]: Test case management tools help to create and manage software testing scenarios, ensuring that all necessary tests are executed. 
  - TestRail
  - PractiTest
  - HP ALM
   
-### Test Data Management Tools:
-Test data management tools help to create and manage test data sets that are used in software testing. 
+### Test Data Management Tools[^6]:
+[^6]: Test data management tools help to create and manage test data sets that are used in software testing. 
  - Delphix
  - Informatica,
  - IBM Optim
   
-### Test Data Generation Tools:
-Test data generation tools help to create synthetic data sets that can be used in software testing.
+### Test Data Generation Tools[^7]:
+[^7]: Test data generation tools help to create synthetic data sets that can be used in software testing.
  - Mockaroo
  - Faker
  - DataFactory
   
-### Test Automation Tools:
-Test automation tools help to automate repetitive testing tasks, which saves time and reduces the risk of human error. 
+### Test Automation Tools[^8]:
+[^8]: Test automation tools help to automate repetitive testing tasks, which saves time and reduces the risk of human error. 
  - Selenium
  - Appium  
  - TestComplete
   
-### Bug Tracking Tools:
-Bug tracking tools help to track and manage software defects throughout the software development lifecycle.
+### Bug Tracking Tools[^9]:
+[^9]: Bug tracking tools help to track and manage software defects throughout the software development lifecycle.
  - Jira
  - Bugzilla
  - Mantis
   
-### Continuous Integration/Continuous Delivery (CI/CD) Tools:
-CI/CD tools help to automate the process of building, testing, and deploying software.
+### Continuous Integration/Continuous Delivery (CI/CD) Tools[^10]:
+[^10]: CI/CD tools help to automate the process of building, testing, and deploying software.
  - Jenkins
  - Travis CI
  - CircleCI
   
-### Continuous Testing Tools:
-Continuous testing tools help to automate the process of testing software throughout the development lifecycle. 
+### Continuous Testing Tools[^11]:
+[^11]: Continuous testing tools help to automate the process of testing software throughout the development lifecycle. 
  - Tricentis Tosca
  - Sauce Labs
  - Testim
  
-### Code Review Tools:
-Code review tools help to identify and fix potential issues in software code.
+### Code Review Tools[^12]:
+[^12]: Code review tools help to identify and fix potential issues in software code.
  - GitHub
  - GitLab
  - Crucible
   
-### Version Control Tools:
-Version control tools help to manage changes to software code and other project files. 
+### Version Control Tools[^13]:
+[^13]: Version control tools help to manage changes to software code and other project files. 
  - Git
  - Subversion
  - Mercurial
   
-### Performance Testing Tools:
-Performance testing tools help to evaluate the speed, scalability, and stability of software under different conditions.
+### Performance Testing Tools[^14]:
+[^14]: Performance testing tools help to evaluate the speed, scalability, and stability of software under different conditions.
  - JMeter
  - LoadRunner
  - Gatling
   
-### Load Testing Tools:
-Load testing tools help to evaluate the performance of software under heavy load or stress conditions. 
+### Load Testing Tools[^15]:
+[^15]: Load testing tools help to evaluate the performance of software under heavy load or stress conditions. 
  - Apache JMeter
  - LoadRunner
  - BlazeMeter
   
-### Security Testing Tools:
-Security testing tools help to identify vulnerabilities in software and ensure that it meets security standards.
+### Security Testing Tools[^16]:
+[^16]: Security testing tools help to identify vulnerabilities in software and ensure that it meets security standards.
  - OWASP ZAP 
  - Nessus 
  - Burp Suite
   
-### Accessibility Testing Tools:
-Accessibility testing tools help to ensure that software is accessible to users with disabilities.
+### Accessibility Testing Tools[^17]:
+[^17]: Accessibility testing tools help to ensure that software is accessible to users with disabilities.
  - Axe
  - Tenon
  - WAVE
   
-### User Interface (UI) Testing Tools:
-UI testing tools help to test the graphical user interface (GUI) of software applications, ensuring that it functions correctly and is user-friendly. 
+### User Interface (UI) Testing Tools[^18]:
+[^18]: UI testing tools help to test the graphical user interface (GUI) of software applications, ensuring that it functions correctly and is user-friendly. 
  - TestComplete
  - Katalon Studio
  - Telerik Test Studio
   
-### API Testing Tools:
-API testing tools help to test application programming interfaces (APIs) that are used to integrate software applications. 
+### API Testing Tools[^19]:
+[^19]: API testing tools help to test application programming interfaces (APIs) that are used to integrate software applications. 
  - Postman
  - SoapUI
  - Swagger
   
-### Exploratory Testing Tools:
-Exploratory testing tools help to support manual testing activities, allowing QA Engineers to explore software applications and identify issues. 
+### Exploratory Testing Tools[^20]:
+[^20]: Exploratory testing tools help to support manual testing activities, allowing QA Engineers to explore software applications and identify issues. 
  - Session-Based Test Management (SBTM) 
  - Rapid Software Testing
   
-### Virtualization Tools:
-Virtualization tools help to create virtual environments for testing software.
+### Virtualization Tools[^21]:
+[^21]: Virtualization tools help to create virtual environments for testing software.
  - VirtualBox
  - VMware
  - Hyper-V
   
-### Test Reporting and Analytics Tools:
-Test reporting and analytics tools help to visualize and analyze software testing data, providing insights into the quality of the software. 
+### Test Reporting and Analytics Tools[^22]:
+[^22]: Test reporting and analytics tools help to visualize and analyze software testing data, providing insights into the quality of the software. 
  - TestRail
  - Zephyr
  - qTest
   
-### DevOps Tools:
-DevOps tools help to automate the software development and deployment process, promoting collaboration between development and operations teams. 
+### DevOps Tools[^23]:
+[^23]: DevOps tools help to automate the software development and deployment process, promoting collaboration between development and operations teams. 
  - Docker
  - Kubernetes
  - Ansible
   
-### Monitoring Tools:
-Monitoring tools help to track the performance and availability of software systems in production.
+### Monitoring Tools[^24]:
+[^24]: Monitoring tools help to track the performance and availability of software systems in production.
  - Nagios
  - Zabbix,
  - New Relic
   
-### Behavior Driven Development (BDD) Tools:
-BDD tools help to automate testing scenarios based on business requirements, improving collaboration between stakeholders and software developers. 
+### Behavior Driven Development (BDD) Tools[^25]:
+[^25]: BDD tools help to automate testing scenarios based on business requirements, improving collaboration between stakeholders and software developers. 
  - Cucumber
  - SpecFlow
  - Behave
   
-### Mobile Testing Tools:
-Mobile testing tools help to test software applications that run on mobile devices. 
+### Mobile Testing Tools[^26]:
+[^26]: Mobile testing tools help to test software applications that run on mobile devices. 
  - Appium
  - Calabash
  - TestComplete Mobile
   
-### Mobile Device Testing Tools:
-Mobile device testing tools help to test software applications on different mobile devices and platforms. 
+### Mobile Device Testing Tools[^27]:
+[^27]: Mobile device testing tools help to test software applications on different mobile devices and platforms. 
  - Xamarin Test Cloud
  - AWS Device Farm
  - Perfecto Mobile
   
-### Usability Testing Tools:
-Usability testing tools help to evaluate the user-friendliness of software and identify areas for improvement. 
+### Usability Testing Tools[^28]:
+[^28]: Usability testing tools help to evaluate the user-friendliness of software and identify areas for improvement. 
  - UserTesting
  - UsabilityHub
  - Optimal Workshop
@@ -200,64 +200,64 @@ Usability testing tools help to evaluate the user-friendliness of software and i
 ## Tech Skills
 
 ### Test planning and design:
-A QA Test Engineer should be able to create effective test plans and test cases that cover all functional and non-functional requirements of the software. This includes understanding the business requirements and user stories, and designing tests that validate the expected behavior of the software.
+I am able to create effective test plans and test cases that cover all functional and non-functional requirements of the software. This includes understanding the business requirements and user stories, and designing tests that validate the expected behavior of the software.
 
 ### Test automation: 
-A QA Test Engineer should have experience with test automation tools and frameworks such as Selenium, Appium, or TestNG. They should be able to create and execute automated tests, and interpret the results to identify and report defects.
+I have experience with test automation tools and frameworks such as Selenium, Appium, or TestNG. They should be able to create and execute automated tests, and interpret the results to identify and report defects.
 
 ### Programming skills: 
-A QA Test Engineer should have a strong understanding of programming languages such as Java, Python, or JavaScript, as well as experience with version control systems such as Git. They should be able to write scripts and automation code to support testing efforts and integrate testing into the overall software development process.
+I have a strong understanding of programming languages such as Java and JavaScript, as well as experience with version control systems such as Git. I am able to write scripts and automation code to support testing efforts and integrate testing into the overall software development process.
 
 ### Defect management: 
-A QA Test Engineer should be able to use defect tracking and management tools such as Jira or Bugzilla to report, track, and manage defects found during testing. They should also be able to communicate defects clearly to developers, and work collaboratively with development teams to resolve defects.
+I am able to use defect tracking and management tools such as Jira or Bugzilla to report, track, and manage defects found during testing. I am also able to communicate defects clearly to developers, and work collaboratively with development teams to resolve defects.
 
 ### Performance testing: 
-A QA Test Engineer should be familiar with performance testing tools such as JMeter or LoadRunner, and should be able to design and execute performance tests that validate the scalability and stability of the software.
+I am familiar with performance testing tools such as JMeter or LoadRunner, and am able to design and execute performance tests that validate the scalability and stability of the software.
 
 ### Security testing: 
-A QA Test Engineer should have a basic understanding of security testing concepts and tools, such as OWASP ZAP or Burp Suite. They should be able to design and execute security tests that validate the security of the software.
+I have a basic understanding of security testing concepts and tools, such as OWASP ZAP or Burp Suite. I am able to design and execute security tests that validate the security of the software.
 
 ### Continuous integration and delivery (CI/CD): 
-A QA Test Engineer should have a basic understanding of CI/CD processes and tools such as Jenkins, CircleCI or GitLab. They should be able to integrate testing into the CI/CD pipeline, and use automation to ensure that testing is performed consistently and reliably across all environments.
+I have a basic understanding of CI/CD processes and tools such as Jenkins, CircleCI or GitLab. I am able to integrate testing into the CI/CD pipeline, and use automation to ensure that testing is performed consistently and reliably across all environments.
 
 ### API testing: 
-A QA Test Engineer should be familiar with API testing tools such as Postman or SoapUI, and should be able to design and execute API tests that validate the functionality and performance of the software's API.
+I am familiar with API testing tools such as Postman or SoapUI, and I am able to design and execute API tests that validate the functionality and performance of the software's API.
 
 ### Database testing: 
-A QA Test Engineer should have a basic understanding of SQL, and be able to design and execute database tests that validate the integrity of the data and ensure that the software interacts correctly with the database.
+I have a basic understanding of SQL, and am able to design and execute database tests that validate the integrity of the data and ensure that the software interacts correctly with the database.
 
 ### Mobile testing: 
-If the software includes a mobile app, a QA Test Engineer should have experience with mobile testing tools such as Appium or Calabash, and should be able to design and execute tests that validate the functionality and performance of the app on different devices and operating systems.
+I have experience with mobile testing tools such as Appium or Calabash, and am able to design and execute tests that validate the functionality and performance of the app on different devices and operating systems.
 
 ### Cross-browser testing: 
-A QA Test Engineer should be able to design and execute tests that validate the compatibility of the software with different browsers, operating systems, and devices.
+I am able to design and execute tests that validate the compatibility of the software with different browsers, operating systems, and devices.
 
 ### Accessibility testing: 
-A QA Test Engineer should have a basic understanding of accessibility testing concepts and tools, such as axe or Wave. They should be able to design and execute tests that validate the accessibility of the software for users with disabilities.
+I have a basic understanding of accessibility testing concepts and tools, such as axe or Wave. I am able to design and execute tests that validate the accessibility of the software for users with disabilities.
 
 ### Test data management: 
-A QA Test Engineer should be able to manage test data effectively, including generating and maintaining test data sets, managing test data dependencies, and ensuring the security and privacy of test data.
+I am able to manage test data effectively, including generating and maintaining test data sets, managing test data dependencies, and ensuring the security and privacy of test data.
 
 ### DevOps tools and processes: 
-A QA Test Engineer should have a basic understanding of DevOps tools and processes, such as containerization, orchestration, and monitoring, and be able to integrate testing into the DevOps workflow.
+I have a basic understanding of DevOps tools and processes, such as containerization, orchestration, and monitoring, and be able to integrate testing into the DevOps workflow.
 
 ### Exploratory testing: 
-A QA Test Engineer should have strong exploratory testing skills, which involves using critical thinking and creativity to identify defects that may not be captured by scripted test cases.
+I have strong exploratory testing skills, which involves using critical thinking and creativity to identify defects that may not be captured by scripted test cases.
 
 ### Test case management: 
-A QA Test Engineer should be able to manage test cases effectively, including organizing test cases into test suites, maintaining traceability between requirements and test cases, and ensuring that test cases are up-to-date and relevant.
+I am able to manage test cases effectively, including organizing test cases into test suites, maintaining traceability between requirements and test cases, and ensuring that test cases are up-to-date and relevant.
 
 ### Code review: 
-A QA Test Engineer should have experience with code review processes and tools such as GitHub, Bitbucket, or Gerrit. They should be able to review code changes for quality and completeness, and identify potential issues that could impact testing.
+I have experience with code review processes and tools such as GitHub, Bitbucket, or Gerrit. I am able to review code changes for quality and completeness, and identify potential issues that could impact testing.
 
 ### Agile methodologies: 
-A QA Test Engineer should have a good understanding of Agile development methodologies such as Scrum or Kanban, and be able to work effectively as part of an Agile team.
+I have a good understanding of Agile development methodologies such as Scrum or Kanban, and I am able to work effectively as part of an Agile team.
 
 ### Communication skills: 
-A QA Test Engineer should have strong communication skills, both verbal and written. They should be able to clearly communicate testing results and defects to stakeholders, collaborate effectively with development teams, and document testing processes and results.
+I have strong communication skills, both verbal and written. I am able to clearly communicate testing results and defects to stakeholders, collaborate effectively with development teams, and document testing processes and results.
 
 ### Risk management: 
-A QA Test Engineer should have experience with risk management techniques such as risk analysis and risk mitigation planning. They should be able to identify potential risks and prioritize testing efforts based on the level of risk.
+I have experience with risk management techniques such as risk analysis and risk mitigation planning. I am able to identify potential risks and prioritize testing efforts based on the level of risk.
 
 ## Professional Education
 Bronx Community College, AAS Radiologic Technology
