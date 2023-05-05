@@ -203,6 +203,7 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 ## Tech Skills
 <details>
 <summary>Everything I know, Captain!</summary>
+
 ### Test planning and design:
 I am able to create effective test plans and test cases that cover all functional and non-functional requirements of the software. This includes understanding the business requirements and user stories, and designing tests that validate the expected behavior of the software.
 
