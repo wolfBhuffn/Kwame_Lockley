@@ -267,8 +267,8 @@ I have experience with risk management techniques such as risk analysis and risk
 
 <!--PROFESSIONAL EDUCATION SECTION________________________________________________________________________________________________________________-->
 ## Professional Education
-Bronx Community College, AAS Radiologic Technology
-Westchester Community College, NYS EMT Certification
+- Bronx Community College, AAS Radiologic Technology
+- Westchester Community College, NYS EMT Certification
 
 <!--COURSES & CERTIFICATIONS SECTION________________________________________________________________________________________________________________-->
 ## Courses & Certificates
