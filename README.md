@@ -26,9 +26,9 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 <details>
  <summary>My work</summary>
  
-###  [Mindmaps and diagrams](https://www.figma.com/file/mo9kT4Jc1COcOFBsgWErLh/Diagram---Mastodon.Social?type=whiteboard&node-id=0-1&t=b41ZeSfwxH91RLG7-0)
-### Test cases and work in TestRail (LINK / Screenshots HERE)
-### Bug reports and work in Jira (LINK / Screenshots HERE)
+### - [Mindmaps and diagrams](https://www.figma.com/file/mo9kT4Jc1COcOFBsgWErLh/Diagram---Mastodon.Social?type=whiteboard&node-id=0-1&t=b41ZeSfwxH91RLG7-0)
+### - Test cases and work in TestRail (LINK / Screenshots HERE)
+### - Bug reports and work in Jira (LINK / Screenshots HERE)
 </details>
 
 <!--TOOLS SECTION________________________________________________________________________________________________________________-->
