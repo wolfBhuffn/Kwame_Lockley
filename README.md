@@ -36,10 +36,12 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 <details>
 <summary>Tools List</summary>
 
-### Requirements Management Tools[^1]:
+ <details>
+### <summary>### Requirements Management Tools[^1]:</summary>
 [^1]: Requirements management tools help to manage and track the requirements for a software project. 
  - Jira
  - Jama
+</details>
     
 ### Agile Project Management Tools[^2]:
 [^2]: Agile project management tools help to facilitate agile development methodologies, including Scrum and Kanban. 
