@@ -333,33 +333,34 @@ This blog post covers the benefits of continuous testing, including improved qua
 ## Skills training
 <details>
 <summary>This is what you really want to know!</summary>
-### Understanding of software development life cycle (SDLC): 
+ 
+### Understanding of software development life cycle (SDLC):
 I have a good understanding of SDLC and be familiar with the different phases such as requirements gathering, design, development, testing, and maintenance.
 
-### Test planning and design: 
+### Test planning and design:
 I have the ability to create test plans, test cases, and test scenarios based on the requirements and design documents.
 
-### Test automation: 
+### Test automation:
 I am skilled in automation testing and have experience with popular automation tools such as Selenium, Appium, or TestComplete.
 
-### Defect management: 
+### Defect management:
 I am able to identify, report, and track defects through a defect tracking system and have experience in using tools like JIRA, Bugzilla, or HP ALM.
 
-### Performance testing: 
+### Performance testing:
 I have a good understanding of performance testing concepts, tools, and techniques such as load testing, stress testing, and scalability testing.
 
-### Security testing: 
+### Security testing:
 I have knowledge of security testing and be able to identify security vulnerabilities and threats in the system.
 
-### Test data management: 
+### Test data management:
 I am able to manage test data and create test data sets that simulate real-world scenarios.
 
-### Communication and collaboration: 
+### Communication and collaboration:
 I have good communication and collaboration skills to work effectively with development teams, project managers, and stakeholders.
 
-### Continuous integration and continuous delivery (CI/CD): 
+### Continuous integration and continuous delivery (CI/CD):
 I am familiar with CI/CD principles and tools such as Jenkins, Git, and Docker.
 
-### Maintenance and regression testing: 
+### Maintenance and regression testing:
 I am able to maintain and update test cases and test suites to ensure that they remain relevant and effective over time. I am also be able to perform regression testing to ensure that changes to the system do not affect existing functionality.
 </details>
