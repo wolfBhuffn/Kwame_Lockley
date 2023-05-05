@@ -22,10 +22,10 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 - Click here to unleash the power of [my awesomeness](https://docs.google.com/document/d/1oUaen3vMSdFSc9hYrjl3jEPhqxE1P7YUfJ1iQClYITE/edit#heading=h.zhf0d4gujqwb), and see why they call me the testing guru! ...Okay, maybe not 'they', but definitely my mom. 😇
 
 <!--MY WORK EXAMPLES SECTION________________________________________________________________________________________________________________-->
+## My Work (Examples):
 <details>
  <summary>My work</summary>
  
-## My Work (Examples):
 ###  [Mindmaps and diagrams](https://www.figma.com/file/mo9kT4Jc1COcOFBsgWErLh/Diagram---Mastodon.Social?type=whiteboard&node-id=0-1&t=b41ZeSfwxH91RLG7-0)
 ### Test cases and work in TestRail (LINK / Screenshots HERE)
 ### Bug reports and work in Jira (LINK / Screenshots HERE)
