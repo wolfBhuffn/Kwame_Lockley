@@ -37,7 +37,7 @@ Clickity-click this button to connect with the most fascinating person on [Linke
 <summary>Tools List</summary>
 
  <details>
-### <summary>### Requirements Management Tools[^1]:</summary>
+### <summary>Requirements Management Tools[^1]: </summary>
 [^1]: Requirements management tools help to manage and track the requirements for a software project. 
  - Jira
  - Jama
